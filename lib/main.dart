@@ -9,7 +9,7 @@ class LibrariesApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Libraries App',
+      title: 'Flutter Libraries',
       home: LibraryListScreen(),
     );
   }
